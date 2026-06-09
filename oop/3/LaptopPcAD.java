@@ -1,4 +1,7 @@
 
-public class LaptopPcAD extends ElectronicsAD{
+public class LaptopPcAD extends ElectronicAD {
+
+    public LaptopPcAD() {
+    }
     
 }

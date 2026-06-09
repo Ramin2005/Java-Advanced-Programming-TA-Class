@@ -1,0 +1,3 @@
+interface Featured {
+    boolean isFeatured();
+}
